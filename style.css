@@ -1,0 +1,111 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    min-height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.6)),url(images/coolbg.jpg);
+    background-position: center;
+    background-size: cover;
+    position: fixed;
+    margin-top: -10px;
+}
+li{
+    display: inline;
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 15px;
+    color: white;
+    padding: 10px;
+}
+li:hover{
+    transform: scale(0.5);
+    color: lightgray;
+}
+.navbar{
+    text-align: right;
+    margin-top: 10px;
+    margin-right: 10px;
+    position: relative;
+}
+.logo{
+    font-family: Agency FB;
+    font-size: 75px;
+    color: white;
+    text-align: center;
+    margin-top: 175px;
+    position: relative;
+}
+#chid{
+    font-family: Agency FB;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    margin-top: 400px;
+    position: relative;
+}
+.cimages{
+    height: 250px;
+    width: 250px;
+    position: relative;
+    border-style: solid;
+    border-color: white;
+    border-radius: 7%;
+}
+.cmpm1{
+    margin-left: 10.4%;
+    margin-top: 5%;
+}
+.cmpm2{
+    margin-left: 10%;
+    margin-top: 5%;
+}
+.cmpm3{
+    margin-left: 10%;
+    margin-top: 5%;
+}
+.ctext{
+    font-family: Agency FB;
+    font-size: 40px;
+    color: white;
+    position: relative;
+    display: inline;
+}
+.ctpm1{
+    margin-left: 220px;
+}
+.ctpm2{
+    margin-left: 285px;
+}
+.ctpm3{
+    margin-left: 260px;
+}
+#tod{
+    font-family: Agency FB;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    margin-top: 110px;
+    position: relative;
+}
+.todimages{
+    height: 250px;
+    width: 250px;
+    position: relative;
+    border-style: solid;
+    border-color: white;
+    border-radius: 7%;
+}
+.todimg1{
+    margin-left: 10.4%;
+    margin-top: 5%;
+}
+.todimg2{
+    margin-left: 10%;
+    margin-top: 5%;
+}
+.todimg3{
+    margin-left: 10%;
+    margin-top: 5%;
+}
